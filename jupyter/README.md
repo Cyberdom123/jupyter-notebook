@@ -1,7 +1,7 @@
 # jupyter-notebook
 
 #### To start notebook type:
-'' jupyter notebook ''
+'jupyter notebook'
 
 #### Used packages:
 - numpy
