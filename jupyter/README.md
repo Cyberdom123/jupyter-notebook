@@ -7,3 +7,4 @@
 - numpy
 - sympy
 - matplotlib
+-jupyterlab
